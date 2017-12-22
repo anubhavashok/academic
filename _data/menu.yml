@@ -1,22 +1,22 @@
 - title: "About"
-  href: "{{ site.baseurl }}/about/"
+  href: "/academic/about/"
 
 - title: "Blog"
-  href: "{{ site.baseurl }}/blog/"
+  href: "/academic/blog/"
 
 - title: "Research"
-  href: "{{ site.baseurl }}/research/"
+  href: "/academic/research/"
 
 #- title: "Research Notebook"
-  #href: "{{ site.baseurl }}/notebook"
+  #href: "/academic/notebook"
 
 - title: "CV"
-  href: "{{ site.baseurl }}/cv/"
+  href: "/academic/cv/"
 
 - title: "Resources"
-  href: "{{ site.baseurl }}/resources/"
+  href: "/academic/resources/"
   subcategories:
     - subtitle: "Item 1"
-      subhref: "{{ site.baseurl }}/resources/item-1/"
+      subhref: "/academic/resources/item-1/"
     - subtitle: "Item 2"
-      subhref: "{{ site.baseurl }}/resources/item-2/"
+      subhref: "/academic/resources/item-2/"
