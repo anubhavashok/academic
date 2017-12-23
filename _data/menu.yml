@@ -1,11 +1,11 @@
 - title: "About"
   href: "/academic/about/"
 
-- title: "Blog"
-  href: "/academic/blog/"
+#- title: "Blog"
+#  href: "/academic/blog/"
 
-- title: "Research"
-  href: "/academic/research/"
+#- title: "Research"
+#  href: "/academic/research/"
 
 #- title: "Research Notebook"
   #href: "/academic/notebook"
@@ -13,10 +13,10 @@
 - title: "CV"
   href: "/academic/cv/"
 
-- title: "Resources"
-  href: "/academic/resources/"
-  subcategories:
-    - subtitle: "Item 1"
-      subhref: "/academic/resources/item-1/"
-    - subtitle: "Item 2"
-      subhref: "/academic/resources/item-2/"
+#- title: "Resources"
+#  href: "/academic/resources/"
+#  subcategories:
+#    - subtitle: "Item 1"
+#      subhref: "/academic/resources/item-1/"
+#    - subtitle: "Item 2"
+#      subhref: "/academic/resources/item-2/"
